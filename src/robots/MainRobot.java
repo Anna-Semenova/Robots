@@ -6,7 +6,7 @@ import java.util.Locale;
 public class MainRobot {
     public static void main(String[] args) {
 
-        System.out.println("Enter the name of the first robot !");
+        System.out.println("Enter the name of the first robot !!!!");
 
         String name1 = WorkWithConsole.getNameFromConsole();
         Robot robot1 = new Robot(name1);
